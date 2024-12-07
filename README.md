@@ -50,6 +50,7 @@
  </table>
  <br>
  <div align="center">
+    <h2>GitHUb Trophies</h2>
  </div>
  
 
