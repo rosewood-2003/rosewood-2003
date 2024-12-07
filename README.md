@@ -6,6 +6,9 @@
 <p>Let's be Lana🎧🖤🎀 Code(d)👩‍💻</p>
 </div>
 <br>
+<div align="center">
+</div>
+<br>
 <h2>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span>
 </h2>
