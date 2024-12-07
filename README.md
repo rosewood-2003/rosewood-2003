@@ -9,3 +9,6 @@
 <h2>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span>
 </h2>
+<div align="center" width="50%">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rosewood-2003&theme=dark&fire" alt="" /></p>
+</div>
