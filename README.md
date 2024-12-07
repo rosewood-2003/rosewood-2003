@@ -44,6 +44,8 @@
         <td><img height=40 src = "https://skillicons.dev/icons?i=windows,vim,ubuntu,&theme=dark"></td>
      </tr>
      <tr>
+        <td><strong>IDE & Programming Applications</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=vscode,pycharm,replit,visualstudio,powershell,codepen,&theme=dark"></td>
      </tr>
  </table>
 
