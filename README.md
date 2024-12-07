@@ -40,6 +40,8 @@
         <td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
      </tr>
      <tr>
+        <td><strong>Operating System</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=windows,vim,ubuntu,&theme=dark"></td>
      </tr>
      <tr>
      </tr>
