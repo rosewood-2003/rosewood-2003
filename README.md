@@ -56,5 +56,7 @@
  <br>
  <div align="center">
     <h2> 🤖📜 Random Quote 📜🤖 </h2> 
+      <img src="A Random Quote.png" alt="Random Quote"/>
+
  </div>
 
