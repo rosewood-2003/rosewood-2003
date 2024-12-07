@@ -22,3 +22,6 @@
 </div>
 <br>
 <h2> My Skills 🚀 </h2>
+ <table>
+ </table>
+
