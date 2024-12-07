@@ -59,4 +59,5 @@
       <img src="A Random Quote.png" alt="Random Quote"/>
 
  </div>
+ <br>
 
