@@ -14,4 +14,5 @@
 </div>
 <br>
 <div align="center">
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosewood-2003&theme=jolly&fire" />
 </div>
