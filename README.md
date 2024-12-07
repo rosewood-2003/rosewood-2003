@@ -24,6 +24,8 @@
 <h2> My Skills 🚀 </h2>
  <table>
     <tr>
+       <td><strong>Programming Languages</strong></td>
+       <td><img height=40 src = "https://skillicons.dev/icons?i=javascript&theme=dark"></td>
     </tr>
      <tr>
      </tr>
