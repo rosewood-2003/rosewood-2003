@@ -32,6 +32,8 @@
         <td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap,jquery,sass,react,redux" ></td>
      </tr>
      <tr>
+        <td><strong>Backend Libraries</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,npm"></td>
      </tr>
      <tr>
      </tr>
