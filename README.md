@@ -61,4 +61,7 @@
  </div>
  <br>
  <div align="center">
+    <a href="https://github.com/rosewood-2003">
+       <img src="https://img.shields.io/github/followers/rosewood-2003?label=Follow&style=social" width="130" alt="GitHub followers">
+    </a>
  </div>
