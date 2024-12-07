@@ -28,6 +28,8 @@
        <td><img height=40 src = "https://skillicons.dev/icons?i=javascript&theme=dark"></td>
     </tr>
      <tr>
+        <td><strong>Frontend Libraries</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap,jquery,sass,react,redux" ></td>
      </tr>
      <tr>
      </tr>
