@@ -107,5 +107,7 @@
 
  <br>
 
- 
+<div align="center">
+   <h3>🙏😊 Thanks for visiting! Feel free to explore my repositories and follow me if you're interested in my work.</h3>
+ </div>
 
