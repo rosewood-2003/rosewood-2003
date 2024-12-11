@@ -66,3 +66,5 @@
         <td><img height=40 src = "https://skillicons.dev/icons?i=vscode,pycharm,replit,visualstudio,powershell,codepen,&theme=dark"></td>
      </tr>
  </table>
+
+ <br>
