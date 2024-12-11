@@ -19,3 +19,9 @@
 </div>
 
 <br>
+
+<div>
+<h2>
+   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span>
+</h2>
+</div>
