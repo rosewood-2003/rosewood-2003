@@ -40,4 +40,29 @@
 
 <h2> My Skills 🚀 </h2>
 
-
+<table>
+    <tr>
+       <td><strong>Programming Languages</strong></td>
+       <td><img height=40 src = "https://skillicons.dev/icons?i=javascript&theme=dark"></td>
+    </tr>
+     <tr>
+        <td><strong>Frontend Libraries</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=html,css,bootstrap,jquery,sass,react,redux" ></td>
+     </tr>
+     <tr>
+        <td><strong>Backend Libraries</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,npm"></td>
+     </tr>
+     <tr>
+        <td><strong>Developer Tools</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+     </tr>
+     <tr>
+        <td><strong>Operating System</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=windows,vim,ubuntu,&theme=dark"></td>
+     </tr>
+     <tr>
+        <td><strong>IDE & Programming Applications</strong></td>
+        <td><img height=40 src = "https://skillicons.dev/icons?i=vscode,pycharm,replit,visualstudio,powershell,codepen,&theme=dark"></td>
+     </tr>
+ </table>
