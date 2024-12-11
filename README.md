@@ -25,3 +25,13 @@
    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"> <span><i>Github Analytics</i></span>
 </h2>
 </div>
+
+<br>
+
+<div align="center">
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosewood-2003&theme=jolly&fire" />
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosewood-2003&theme=jolly&fire" />
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rosewood-2003&theme=jolly&fire" />
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rosewood-2003&theme=jolly&fire"/>
+   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rosewood-2003&theme=jolly&fire" />
+</div>
