@@ -91,3 +91,22 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920" />
 
+<br>
+
+<br>
+
+<br>
+
+<div align="center">
+   <a href="https://github.com/rosewood-2003">
+      <img src="https://img.shields.io/github/followers/rosewood-2003?label=Follow&style=social" width="130" alt="GitHub followers">
+   </a>
+      <img src="https://komarev.com/ghpvc/?username=rosewood-2003&color=blue" width="150" alt="Profile Views">
+ </div>
+
+ <br>
+
+<div align="center">
+   <h3>🙏😊 Thanks for visiting! Feel free to explore my repositories and follow me if you're interested in my work.</h3>
+ </div>
+
