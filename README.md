@@ -75,3 +75,11 @@
  </div>
 
  <br>
+
+  <div align="center">
+    <h2> 📜✍️ A Quote ✍️📜 </h2> 
+      <img src="A Random Quote.png" alt="Random Quote"/>
+
+ </div>
+
+ <br>
