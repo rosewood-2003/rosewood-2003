@@ -28,6 +28,10 @@
 
 <br>
 
+<div align="center" width="50%">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rosewood-2003&theme=dark&fire" alt="" /></p>
+</div>
+
 <div align="center">
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rosewood-2003&theme=jolly&fire" />
    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rosewood-2003&theme=jolly&fire" />
